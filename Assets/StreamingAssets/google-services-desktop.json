@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782209915958",
+    "project_id": "testmainmenuunity",
+    "storage_bucket": "testmainmenuunity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782209915958:android:572f1f3ee072632dbd8c97",
+        "android_client_info": {
+          "package_name": "cr.test.vrtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782209915958-ghge55l0vls2urhsq5jgj4e2eqgisi2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxevmeumFCYXXEZG5a3zcrksE0gZdDhl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782209915958-ghge55l0vls2urhsq5jgj4e2eqgisi2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782209915958-chto2qf09tf45gob94lrial9r9tcsorl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cr.test.vrtest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

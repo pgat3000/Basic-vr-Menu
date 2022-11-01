@@ -6,6 +6,11 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
+/[Aa]ssets/Editor Default Resources/
+/[Aa]ssets/ExternalDependencyManager/
+/[Aa]ssets/Firebase/
+/[Aa]ssets/Parse/
+/[Aa]ssets/Plugins/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
